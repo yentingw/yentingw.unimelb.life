@@ -6,6 +6,9 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-162662775-1');
+  
+  gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
+  ga('set', 'userId', 'USER_ID'); // Set the user ID using signed-in user_id.
 </script>
 
 
