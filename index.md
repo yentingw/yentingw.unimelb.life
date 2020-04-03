@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162662775-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162662775-1');
+</script>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yentingw/yentingw.unimelb.life/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
